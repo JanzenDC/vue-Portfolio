@@ -3,7 +3,7 @@
     <nav class="px-4 p-8 md:px-14 bg-[#435334] border-b" :class="{'fixed-nav': isNavFixed}">
     <div class="flex justify-between">
       <div class="flex">
-              <img src="src\images\jdc_logo.png" alt="Logo" class="w-10 h-10">
+              <img src="@/images/jdc_logo.png" alt="Logo" class="w-10 h-10">
               <h1 class="py-2 text-white">Janzen Dela Cruz</h1>
       </div>
       <div class="md:hidden block text-white text-2xl">
@@ -95,7 +95,7 @@
         </div>
         <div class="mt-10 w-full">
           <div class="w-full flex justify-end items-end">
-            <img src="src\images\pixels-neon.gif" alt="Image Description" class="w-full md:w-96">
+            <img src="@/images/pixels-neon.gif" alt="Image Description" class="w-full md:w-96">
           </div>
           <div class="flex justify-end items-end ">
             <div class="p-1 flex gap-1 border">
@@ -109,12 +109,12 @@
         
         <div class="p-10 ">
           <div class="relative flex">
-            <img src="src/images/qoutation.png" class="w-10 h-10 absolute -top-4 left-5">
+            <img src="@/images/qoutation.png" class="w-10 h-10 absolute -top-4 left-5">
             <div class="p-5 border-[#9EB384] border text-1xl text-white">
               
               Courage has breathed life into countless dreams, while fear has buried them in the depths of doubt
             </div>
-            <img src="src/images/qoutation.png" class="w-10 h-10 absolute -bottom-6 right-8">
+            <img src="@/images/qoutation.png" class="w-10 h-10 absolute -bottom-6 right-8">
           </div>
         </div>
       </div>
@@ -129,7 +129,7 @@
       </div>
       <div class="md:flex w-full">
         <div class="w-1/2">
-          <img src="src/images/img-bg.png" alt="Alternate Image" class="w-80">
+          <img src="@/images/img-bg.png" alt="Alternate Image" class="w-80">
         </div>
         <div>
           <div class="grid grid-cols-2 md:grid-cols-3 gap-4"> 
@@ -221,7 +221,7 @@
       </div>
       <div class="md:flex mt-3 gap-16">
         <div class="md:w-72 w-full">
-          <img src="src/images/static_nft_marketplace.png" alt="background logo" class="lg:w-96 w-full">
+          <img src="@/images/static_nft_marketplace.png" alt="background logo" class="lg:w-96 w-full">
           <div class="text-white p-4 border">
             Tailwind CSS, Javascript, HTML
           </div>
@@ -241,7 +241,7 @@
         </div>
 
         <div class="md:w-72  md:mt-0 mt-3 w-full ">
-          <img src="src/images/static_password_checker.png" alt="background logo" class="lg:w-96 w-full">
+          <img src="@/images/static_password_checker.png" alt="background logo" class="lg:w-96 w-full">
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
@@ -260,7 +260,7 @@
           </div>
         </div>
         <div class="md:w-72  md:mt-0 mt-3 w-full ">
-          <img src="src/images/static_password_generator.png" alt="background logo" class="lg:w-96 w-full">
+          <img src="@/images/static_password_generator.png" alt="background logo" class="lg:w-96 w-full">
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
@@ -300,7 +300,7 @@
           </p>
         </div>
         <div class="md:justify-end md:items-end md:flex w-full items-center justify-center">
-          <img src="src/images/bg_image_myself.jpg" alt='image of me' class="w-64">
+          <img src="@/images/bg_image_myself.jpg" alt='image of me' class="w-64">
         </div>
       </div>
     </section>
@@ -310,7 +310,7 @@
         <div class="justify-between md:flex">
 
           <div class="flex">
-            <img src="src/images/jdc_logo.png" alt="Logo" class="w-10 h-10">
+            <img src="@/images/jdc_logo.png" alt="Logo" class="w-10 h-10">
             <p class="p-2 text-white">janzendelacruz28@gmail.com</p>
           </div>
 
