@@ -1,4 +1,4 @@
-# Portfolio Project Readme
+# Portfolio Project
 
 ![image](https://github.com/JanzenDC/vue-Portfolio-Ui/assets/145821913/0e6b4473-71fb-43d1-b11c-00b0d9a56fef)
 
