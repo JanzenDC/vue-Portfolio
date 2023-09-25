@@ -17,7 +17,7 @@
             </a>
           </li>
           <li class="text-[#9EB384] hover:border-b">
-            <a @click="scrollToSection('Skills')">
+            <a @click="scrollToSection('Skills')">  
               #<span class="text-[#CEDEBD]">Skills</span>
             </a>
           </li>
