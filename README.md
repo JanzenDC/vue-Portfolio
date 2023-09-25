@@ -28,7 +28,7 @@ The portfolio website is built using Vue.js, Tailwind CSS, and other web technol
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/portfolio-project.git
+     git clone https://github.com/JanzenDC/vue-Portfolio-Ui.git
    ```
 
 2. Navigate to the project directory:
