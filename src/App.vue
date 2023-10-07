@@ -245,7 +245,7 @@
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
-          <div class="text-white p-4 border h-36">
+          <div class="text-white p-4 border h-[170px]">
             <h1 class="font-bold">Simple Password Checker</h1>
             <p>A static Web page checking your password if it is weak or strong</p>
             <div class="flex mt-1 gap-4">
@@ -264,10 +264,10 @@
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
-          <div class="text-white p-4 border h-36">
+          <div class="text-white p-4 border h-[170px]">
             <h1 class="font-bold">Simple Password Generator</h1>
             <p>A static Web page that can generate strong passwords</p>
-            <div class="flex mt-1 gap-4">
+            <div class="flex mt-8 gap-4">
               <div class="gap-1 p-1 border-[#9EB384] border w-20 flex justify-center items-center hover:bg-[#a8e26b]">
                 <a href="https://janzendc.github.io/Password-Generator/">Live </a> <i class="bi bi-paperclip rotate-45"></i>
               </div>            
