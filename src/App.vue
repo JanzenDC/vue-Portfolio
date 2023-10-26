@@ -280,7 +280,7 @@
           
         </div>
         <div class="md:w-72  md:mt-0 mt-3 w-full ">
-          <img src="@/images/New Project.png" alt="background logo" class="lg:w-96 w-full">
+          <img src="@/images/New_Project.png" alt="background logo" class="lg:w-96 w-full">
           <div class="text-white p-4 border">
             Tailwind and Vue
           </div>
