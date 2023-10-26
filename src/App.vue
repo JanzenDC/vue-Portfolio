@@ -225,7 +225,7 @@
           <div class="text-white p-4 border">
             Tailwind CSS, Javascript, HTML
           </div>
-          <div class="text-white p-4 border h-36">
+          <div class="text-white p-4 border h-[180px]">
             <h1 class="font-bold">NFT MARKETPLACE UI</h1>
             <p>A static Web page for NFT</p>
             <div class="flex mt-7 gap-4">
@@ -245,7 +245,7 @@
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
-          <div class="text-white p-4 border h-[170px]">
+          <div class="text-white p-4 border h-[180px]">
             <h1 class="font-bold">Simple Password Checker</h1>
             <p>A static Web page checking your password if it is weak or strong</p>
             <div class="flex mt-1 gap-4">
@@ -264,19 +264,41 @@
           <div class="text-white p-4 border">
             Bootstrap, Javascript, HTML
           </div>
-          <div class="text-white p-4 border h-[170px]">
+          <div class="text-white p-4 border h-[180px]">
             <h1 class="font-bold">Simple Password Generator</h1>
             <p>A static Web page that can generate strong passwords</p>
-            <div class="flex mt-8 gap-4">
+            <div class="flex mt-1 gap-4">
               <div class="gap-1 p-1 border-[#9EB384] border w-20 flex justify-center items-center hover:bg-[#a8e26b]">
                 <a href="https://janzendc.github.io/Password-Generator/">Live </a> <i class="bi bi-paperclip rotate-45"></i>
               </div>            
               <div class="gap-1 p-1 border-[#9EB384] border w-20 flex justify-center items-center hover:bg-[#a8e26b]">
                 <a href="https://github.com/JanzenDC/Password-Generator">Repo </a> <i class="bi bi-github"></i>
               </div>
+            </div>
+          </div>
+
+          
+        </div>
+        <div class="md:w-72  md:mt-0 mt-3 w-full ">
+          <img src="@/images/New Project.png" alt="background logo" class="lg:w-96 w-full">
+          <div class="text-white p-4 border">
+            Tailwind and Vue
+          </div>
+          <div class="text-white p-4 border h-[200px]">
+            <h1 class="font-bold">Commercial Website</h1>
+            <p>Commercial Website for WeaveManila</p>
+            <div class="flex mt-14 gap-4">
+              <div class="gap-1 p-1 border-[#9EB384] border w-20 flex justify-center items-center hover:bg-[#a8e26b]">
+                <a href="https://weave-manila-ui.vercel.app/">Live </a> <i class="bi bi-paperclip rotate-45"></i>
+              </div>            
+              <div class="gap-1 p-1 border-[#9EB384] border w-20 flex justify-center items-center hover:bg-[#a8e26b]">
+                <a href="https://github.com/JanzenDC/WeaveManila-Ui">Repo </a> <i class="bi bi-github"></i>
+              </div>
               
             </div>
           </div>
+
+          
         </div>
       </div>
     </section>
