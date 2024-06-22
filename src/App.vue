@@ -9,7 +9,7 @@
       <div class="md:hidden block text-white text-2xl">
         <i class="bi bi-list" @click="toggleMenu"></i>
       </div>
-      <div class="md:hidden bg-[#435334] w-full h-full p-4 fixed mt-[69px] " v-show="isMenuOpen">
+      <div class="md:hidden bg-[#435334] left-0 w-[500px] h-full p-4 fixed mt-[69px] " v-show="isMenuOpen">
         <ul>
           <li class="text-[#9EB384] hover:border-b">
             <a @click="scrollToSection('Home')">
@@ -219,7 +219,7 @@
             <div class="bg-white w-64 h-1 md:block hidden"></div>
           </div>
       </div>
-      <div class="md:flex mt-3 gap-16">
+      <div class="md:grid md:grid-cols-3 mt-3 gap-16">
         <div class="md:w-72 w-full">
           <img src="@/images/static_nft_marketplace.png" alt="background logo" class="lg:w-96 w-full">
           <div class="text-white p-4 border">
@@ -315,9 +315,9 @@
           <p>
             <h1>Hello, I am Janzen!</h1>
             <p class="mt-3">
-              My journey becoming a self-taught developer began on my 7th Grade with Java and Basic HTML,CSS.
-              My passion for coding was continue untill now I am taking BSIT 4th year at Forbes College. I have 
-              continued to expand my skills in both Front-End and Back-End development.
+              My journey as a self-taught developer began in the 7th grade with Java and Basic HTML, CSS.
+              My passion for coding continued throughout my studies, culminating in a Bachelor's degree in Information Technology from Forbes College.
+              I have continued to expand my skills in both Front-End and Back-End development.
             </p>
           </p>
         </div>
